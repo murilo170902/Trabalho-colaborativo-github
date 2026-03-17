@@ -15,10 +15,23 @@ section{
     padding: 20px 0 ;
 }
 
-img{
+h2{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+h3{
+    margin: 10px 0 5px 0;
+    text-align: center;
+}
+
+figure img{
     max-width: 150px;
 
     border: 5px solid black;
     border-radius: 15px;
+
+    display: flex;
+    justify-self: center;
 }
 

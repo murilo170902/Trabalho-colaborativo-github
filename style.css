@@ -35,3 +35,11 @@ figure img{
     justify-self: center;
 }
 
+
+footer{
+    text-align: center;
+    margin: 10px 0 20px 0;
+    padding-top: 10px;
+
+    border-top: solid 2px gray;
+}
